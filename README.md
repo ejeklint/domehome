@@ -8,9 +8,10 @@ This particular design is for "2V 1/2 geodesic dome". I'm using 20x1.5mm alumini
 _TODO: moar info_
 
 ## Parts
-[Image]()
+![4 leg connector](Connector_4.png)
 
-[Image]()
+![5 leg connector](Connector_5.png)
 
-[Image]()
+![6 leg connector](Connector_6.png)
+
 
