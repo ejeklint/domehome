@@ -9,7 +9,7 @@ I've designed the strut connecting parts in OpenSCAD. This is basically my first
 
 _TODO: moar info, fancy images and what not_
 
-_Coming up: a flexible parts section for any geodesic dome_
+_Coming soon: a flexible parts section for any geodesic dome_
 
 ## Tubes
 You need 30 tubes of length "A" (see the [calculator](http://www.domerama.com/calculators/2v-geodesic-dome-calculator/) to find the correct length of the tubes. The connectors thems) and 35 tubes of length "B". The "A" variety is the shorter of them.
@@ -20,7 +20,7 @@ The connectors comes in four shapes, two for connecting four struts, one for fiv
 The connectors all use the leg.scad part as a base, so if you want to edit for other dimensions of tubes you just edit leg.scad and re-render the connectors.
 
 ### 4 strut connector
-This part comes in two versions, "L" and "R" as indicated in the assembly diagram (courtesy of Domerama), depending on which of the legs connects an "A" strut. You'll need 5 of each version.
+This part is used at the base of the dome and comes in two versions, "L" and "R", depending on which of the legs connects an "A" strut. You'll need 5 of each version.
 
 ![Assembly](2V_Fixed_parts/2v_assembly_large.jpg)
 
