@@ -23,6 +23,12 @@ I'm printing these parts on a [Velleman Vertex](http://www.vertex3dprinter.eu/ho
 
 ![Printed parts](2V_Fixed_parts/printed_parts.jpg) 
 
+__Notes after first test assembly__
+
+The struts are bit too short for the size of dome I want (longest tubes are 1800mm). Also, they come off a bit too easy. Next version should extend 50% more into the tubes and have a hole for a screw to lock in place. Otherwise they seem to work fine and all angles are just right. And they are very discreet when in place, the entire structure looks very neat!
+
+For next version I will also look at Nylon or PET. It's trickier to print but gives the strength and natural flexibility that PLA lacks.
+
 ### 4 strut connector
 This part is used at the base of the dome and comes in two versions, "L" and "R", depending on which of the legs connects an "A" strut. You'll need 5 of each version.
 
